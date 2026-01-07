@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlwb&label=Profile%20views&color=0e75b6&style=flat" alt="tlwb" /> </p>
 
 - 🌱 eu estou aprendendo no momento **Java, Python e JavaScript**
-
+https://github.com/Tlwb/README.md/blob/main/tumblr_d4bd43f0ad45d4fa4af213b2dcac27ff_8bcbce51_500.gif?raw=true
 <h3 align="left">conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heitor-gustavo-dos-reis-499b85398/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heitor-gustavo-dos-reis-499b85398/" height="30" width="40" /></a>
